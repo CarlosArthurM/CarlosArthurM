@@ -1,4 +1,4 @@
-## OI, EU sou Arthur
+## OI, Eu sou Arthur
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&hide_border=true&bg_color=141414&text_color=FFFAFA&icon_color=4B0082&title_color=4B0082&border_radius=10)
 
