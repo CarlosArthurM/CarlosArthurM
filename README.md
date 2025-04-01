@@ -1,6 +1,6 @@
 ## OI, EU sou Arthur
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&hide_border=true&bg_color=141414&text_color=FFFAFA&icon_color=FFFAFA)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&hide_border=true&bg_color=141414&text_color=FFFAFA&icon_color=E6E6FA)
 
 <div style = " display: inline-block; align-items = "center";" > <br>
 <img height = "40" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
