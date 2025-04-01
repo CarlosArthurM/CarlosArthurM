@@ -14,5 +14,5 @@
 ##
 
 <div>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" ></a>
+<a href="" target="_blank"> <img style="border-radius: 15px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" ></a>
 </div>
