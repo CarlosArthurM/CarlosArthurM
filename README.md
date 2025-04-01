@@ -1,5 +1,6 @@
 ## OI, EU sou Arthur
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true)
 
 <div style = " display: inline-block; align-items = "center";" > <br>
