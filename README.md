@@ -14,5 +14,5 @@
 ##
 
 <div>
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosdevcode/)
+ <a href="https://www.instagram.com/carlosdevcode/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" ></a>
 </div>
