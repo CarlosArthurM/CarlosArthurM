@@ -14,5 +14,5 @@
 ##
 
 <div>
- <a href="https://www.instagram.com/carlosdevcode/" target="_blank"> <img style="border-radius: 10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" ></a>
+ [![Instagram](https://seu-link-para-a-imagem-com-borda-arredondada.png)](https://www.instagram.com/carlosdevcode/)
 </div>
