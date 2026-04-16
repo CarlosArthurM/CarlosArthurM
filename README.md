@@ -1,18 +1,46 @@
-## OI, Eu sou Arthur
+# 👋 Olá, eu sou o Arthur
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&hide_border=true&bg_color=141414&text_color=FFFAFA&icon_color=4B0082&title_color=4B0082&border_radius=10)
+💻 Estudando back-end e Front-end
+🎯 Buscando minha primeira oportunidade como desenvolvedor  
 
-<div style = " display: inline-block; align-items = "center";" > <br>
-<img height = "40" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height = "40" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height = "40" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height = "40" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height = "40" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img height = "40" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&hide_border=true&bg_color=141414&text_color=FFFAFA&icon_color=4B0082&title_color=4B0082&border_radius=10)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
 </div>
 
-##
+---
 
-<div>
- <a href="https://www.instagram.com/carlosdevcode/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" ></a>
+## 📫 Contato
+
+<div> 
+  <a href="https://www.instagram.com/carlosdevcode/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
+
+---
+
+## 💡 Sobre mim
+
+- 🧠 Sempre em busca do conhecimento  
+- 🛠️ Desenvolvendo projetos
+  
+---
+
+## ⚡ Objetivo
+
+Evoluir como desenvolvedor, construir projetos cada vez mais completos e conquistar minha primeira oportunidade na área de tecnologia.
