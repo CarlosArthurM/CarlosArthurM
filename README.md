@@ -1,4 +1,3 @@
-md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:6C63FF,100:00C2FF&text=Arthur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=55"/>
@@ -61,16 +60,6 @@ class Arthur:
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosArthurM&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 # Connect With Me
 
 <div align="center">
@@ -78,14 +67,6 @@ class Arthur:
 <a href="https://www.instagram.com/carlosdevcode/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-0f0f0f?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
