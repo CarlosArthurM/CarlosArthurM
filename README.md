@@ -1,36 +1,99 @@
+````md
 <div align="center">
 
-# Arthur
-### Back-End Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:6C63FF,100:00C2FF&text=Arthur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Python+%7C+Django+%7C+SQL;Building+scalable+and+modern+applications;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Python+Back-End+Developer;Building+APIs+and+Scalable+Systems;Django+%7C+SQL+%7C+JavaScript;Always+learning+new+technologies" />
 
-<br>
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```python
+class Arthur:
+
+    role = "Back-End Developer"
+
+    languages = [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ]
+
+    frameworks = [
+        "Django",
+        "Bootstrap"
+    ]
+
+    frontend = [
+        "HTML",
+        "CSS"
+    ]
+
+    current_focus = "Back-End Architecture"
+
+    goal = "Building scalable and efficient applications"
+````
+
+---
+
+<div align="center">
+
+# Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,javascript,django,bootstrap,html,css,mysql&theme=dark" />
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosArthurM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosArthurM&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
 
 <a href="https://www.instagram.com/carlosdevcode/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-0f0f0f?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-```python
-class Arthur:
-    role = "Back-End Developer"
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-    skills = [
-        "Python",
-        "Django",
-        "JavaScript",
-        "SQL",
-        "Bootstrap",
-        "HTML",
-        "CSS"
-    ]
+</div>
 
-    focus = "Building clean, scalable and efficient applications"
+---
 
-    learning = "Always improving my back-end architecture skills"
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:6C63FF,100:00C2FF"/>
+
+</div>
+```
