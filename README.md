@@ -1,46 +1,36 @@
-# 👋 Olá, eu sou o Arthur
+<div align="center">
 
-💻 Estudando back-end e Front-end
-🎯 Buscando minha primeira oportunidade como desenvolvedor  
+# Arthur
+### Back-End Developer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Python+%7C+Django+%7C+SQL;Building+scalable+and+modern+applications;Always+learning+new+technologies" />
 
-## 📊 Estatísticas
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosArthurM&show_icons=true&hide_border=true&bg_color=141414&text_color=FFFAFA&icon_color=4B0082&title_color=4B0082&border_radius=10)
+<a href="https://www.instagram.com/carlosdevcode/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
-</p>
-
----
-
-## 📫 Contato
-
-<div> 
-  <a href="https://www.instagram.com/carlosdevcode/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 </div>
 
 ---
 
-## 💡 Sobre mim
+## About Me
 
-- 🧠 Sempre em busca do conhecimento  
-- 🛠️ Desenvolvendo projetos
-  
----
+```python
+class Arthur:
+    role = "Back-End Developer"
 
-## ⚡ Objetivo
+    skills = [
+        "Python",
+        "Django",
+        "JavaScript",
+        "SQL",
+        "Bootstrap",
+        "HTML",
+        "CSS"
+    ]
 
-Evoluir como desenvolvedor, construir projetos cada vez mais completos e conquistar minha primeira oportunidade na área de tecnologia.
+    focus = "Building clean, scalable and efficient applications"
+
+    learning = "Always improving my back-end architecture skills"
