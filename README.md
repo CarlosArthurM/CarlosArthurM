@@ -64,11 +64,6 @@ class Arthur:
 
 </div>
 
-```
-
-
----
-
 # Connect With Me
 
 <div align="center">
@@ -86,4 +81,3 @@ class Arthur:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:6C63FF,100:00C2FF"/>
 
 </div>
-```
