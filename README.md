@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:6C63FF,100:00C2FF&text=Arthur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Python+Back-End+Developer;Building+APIs+and+Scalable+Systems;Django+%7C+SQL+%7C+JavaScript;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Python+Back-End+Developer;Django+%7C+SQL+%7C+JavaScript;Always+learning+new+technologies" />
 
 </div>
 
